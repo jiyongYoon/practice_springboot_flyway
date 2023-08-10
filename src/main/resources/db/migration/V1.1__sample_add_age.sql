@@ -1,0 +1,1 @@
+ALTER TABLE sample_entity ADD COLUMN age integer default 0
