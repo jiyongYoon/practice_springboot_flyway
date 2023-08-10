@@ -8,6 +8,6 @@ create table sample_entity(
 );
 
 -- 값을 추가한다
-INSERT into sample_entity (name) values ('이름1');
-INSERT into sample_entity (name) values ('이름2');
-INSERT into sample_entity (name) values ('이름3');
+INSERT into sample_entity (name) values ('postgres1');
+INSERT into sample_entity (name) values ('postgres2');
+INSERT into sample_entity (name) values ('postgres3');
